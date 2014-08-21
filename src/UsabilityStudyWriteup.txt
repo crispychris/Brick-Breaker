@@ -1,0 +1,12 @@
+Usability Study
+
+Overall, the players found the game enjoyable. They did not think it was too hard to play,
+thought the graphics were smooth, and understood the score calculations. They thought the 
+user-interface was rather friendly and that the controls were easy to understand. Neither
+of them found the game boring or the colors used to be a problem. They did mention that 
+possible improvements could include improved user interface with more options, such as a 
+restart option. They also mentioned a good thing to have would be to have the score
+increase proportionately to difficulty/speed of the ball. Other things mentioned included
+having different preset levels for the game rather than changing the ball speed in-game.
+Positive things that did stick out to the users was that the ball speed was able to be
+ changed by the user keeping the game interesting as well the changing block colors.
